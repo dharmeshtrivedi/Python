@@ -1,0 +1,58 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyP6lRdETwaQynp3KymUonFb",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/dharmeshtrivedi/Python/blob/master/dictionary\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "TLtO6LgaZ3W6",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 51
+        },
+        "outputId": "958a83f1-74e9-4f2e-ef4a-2758351bfab3"
+      },
+      "source": [
+        "name = input( \"What's ur name: \")\n",
+        "if name == \"Dharmesh\":\n",
+        "   print(str(name)+ \" Trivedi \")\n",
+        "else:\n",
+        "   print(false)\n"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "What's ur name: Dharmesh\n",
+            "Dharmesh Trivedi \n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
